@@ -1,0 +1,6 @@
+framework module Pods_EcoSystemTests {
+  umbrella header "Pods-EcoSystemTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

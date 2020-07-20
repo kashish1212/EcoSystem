@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938526039792-2p462qmnmmsp0sv59v24jpc3a1a8k8f1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938526039792-2p462qmnmmsp0sv59v24jpc3a1a8k8f1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyQHg0p_iHiRHw5p3N_3dTHSDgo5mbGPM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938526039792</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kashishbhutani.EcoSystem</string>
+	<key>PROJECT_ID</key>
+	<string>ecosystem-c0a11</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecosystem-c0a11.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938526039792:ios:559c6677433d29f69f6c35</string>
+	<key>DATABASE_URL</key>
+	<string>https://ecosystem-c0a11.firebaseio.com</string>
+</dict>
+</plist>
